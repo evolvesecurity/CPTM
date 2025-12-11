@@ -1,97 +1,3 @@
-# Table of Contents
-
-[Continuous Penetration Testing Methodology (CPTM) - Technical Guide
-[2](#_Toc214593940)](#_Toc214593940)
-
-[Executive Summary [2](#executive-summary)](#executive-summary)
-
-[Introduction [2](#introduction)](#introduction)
-
-[Phases of the Continuous Penetration Testing Methodology (CPTM)
-[3](#phases-of-the-continuous-penetration-testing-methodology-cptm)](#phases-of-the-continuous-penetration-testing-methodology-cptm)
-
-[Phase 1: Planning & Engagement (Continuous Planning)
-[4](#phase-1-planning-engagement-continuous-planning)](#phase-1-planning-engagement-continuous-planning)
-
-[Phase 2: Continuous Reconnaissance & Asset Discovery
-[5](#phase-2-continuous-reconnaissance-asset-discovery)](#phase-2-continuous-reconnaissance-asset-discovery)
-
-[Phase 3: Threat Modeling & Attack Planning
-[7](#phase-3-threat-modeling-attack-planning)](#phase-3-threat-modeling-attack-planning)
-
-[Phase 4: Continuous Vulnerability Assessment & Analysis
-[9](#phase-4-continuous-vulnerability-assessment-analysis)](#phase-4-continuous-vulnerability-assessment-analysis)
-
-[Phase 5: Exploitation and Adversarial Simulation (Continuous Attack
-Execution)
-[11](#phase-5-exploitation-and-adversarial-simulation-continuous-attack-execution)](#phase-5-exploitation-and-adversarial-simulation-continuous-attack-execution)
-
-[Phase 6: Post-Exploitation and Impact Analysis
-[13](#phase-6-post-exploitation-and-impact-analysis)](#phase-6-post-exploitation-and-impact-analysis)
-
-[Phase 7: Reporting, Remediation & Continuous Feedback Loop
-[15](#phase-7-reporting-remediation-continuous-feedback-loop)](#phase-7-reporting-remediation-continuous-feedback-loop)
-
-[Tool-Agnostic Best Practices and Suggested Tools by Category
-[17](#tool-agnostic-best-practices-and-suggested-tools-by-category)](#tool-agnostic-best-practices-and-suggested-tools-by-category)
-
-[*Reconnaissance & Asset Discovery Tools*
-[18](#_Toc214593952)](#_Toc214593952)
-
-[*Vulnerability Scanning & Analysis Tools*
-[18](#_Toc214593953)](#_Toc214593953)
-
-[*Exploitation & Post-Exploitation Tools*
-[19](#_Toc214593954)](#_Toc214593954)
-
-[*Continuous Monitoring & Integration Tools*
-[21](#_Toc214593955)](#_Toc214593955)
-
-[Mapping CPTM to Industry Frameworks and Standards
-[22](#mapping-cptm-to-industry-frameworks-and-standards)](#mapping-cptm-to-industry-frameworks-and-standards)
-
-[*Alignment with NIST SP 800-115 (Technical Guide to Information
-Security Testing and Assessment)* [22](#_Toc214593957)](#_Toc214593957)
-
-[*Alignment with MITRE ATT&CK Framework*
-[23](#_Toc214593958)](#_Toc214593958)
-
-[*Alignment with OWASP / Penetration Testing Execution Standard (PTES)*
-[25](#_Toc214593959)](#_Toc214593959)
-
-[**How CPTM Exceeds These Standards**
-[27](#_Toc214593960)](#_Toc214593960)
-
-[Benefits of Continuous Penetration Testing (CPTM) vs. Traditional
-Annual Testing
-[27](#benefits-of-continuous-penetration-testing-cptm-vs.-traditional-annual-testing)](#benefits-of-continuous-penetration-testing-cptm-vs.-traditional-annual-testing)
-
-[*1. Real-Time Vulnerability Management and Reduced Exposure Window*
-[27](#_Toc214593962)](#_Toc214593962)
-
-[*2. Higher Frequency, Continuous Improvement*
-[28](#_Toc214593963)](#_Toc214593963)
-
-[*3. Comprehensive Coverage Over Time*
-[28](#_Toc214593964)](#_Toc214593964)
-
-[*4. Improved Reporting and Stakeholder Engagement*
-[29](#_Toc214593965)](#_Toc214593965)
-
-[*5. Adaptive to Change and Agile/DevOps Integration*
-[29](#_Toc214593966)](#_Toc214593966)
-
-[*6. Demonstrable Risk Reduction and ROI*
-[30](#_Toc214593967)](#_Toc214593967)
-
-[*7. Applicability Across Industries*
-[31](#_Toc214593968)](#_Toc214593968)
-
-[*8. Staying Ahead of Attackers and Compliance Trends*
-[32](#_Toc214593969)](#_Toc214593969)
-
-[Sources [33](#contributors-partners)](#contributors-partners)
-
 <span id="_Toc214593940" class="anchor"></span>**Continuous Penetration
 Testing Methodology (CPTM) - Technical Guide**
 
@@ -2134,7 +2040,7 @@ meet the demands of the modern threat landscape.
 
 # Contributors & Partners
 
-# Paul Petefish – Author
+Paul Petefish – Author
 
 Mark Carney – Contributor / Reviewer
 
