@@ -304,7 +304,7 @@ domains, user accounts, or software deployments).
   efforts happen regularly rather than just at the start of an
   engagement.
 
-Continuous Aspect: In continuous pen testing, reconnaissance is
+**Continuous Aspect:** In continuous pen testing, reconnaissance is
 essentially on-going monitoring. Automation is key and required: tools
 running 24/7 can immediately detect changes and feed them to the testing
 team. For example, one can set up notifications such that as soon as a
