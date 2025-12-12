@@ -1,5 +1,4 @@
-<span id="_Toc214593940" class="anchor"></span>**Continuous Penetration
-Testing Methodology (CPTM) - Technical Guide**
+# **Continuous Penetration Testing Methodology (CPTM) - Technical Guide**
 
 # Executive Summary
 
@@ -2102,3 +2101,5 @@ Ben Johnson – Contributor / Reviewer
 13. Wazuh, Inc. (2023). *How Wazuh delivers enterprise-level security
     for free* \[White paper\]. Retrieved from
     https://wazuh.com/resources/white-paper/
+
+This methodology document was developed with assistance from generative AI (Anthropic's Claude, OpenAI’s ChatGPT) to support drafting, research, and refinement of technical content.
