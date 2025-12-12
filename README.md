@@ -396,13 +396,16 @@ random vulnerabilities but the paths an actual attacker would take.
   instance, a vulnerability on a public-facing system leading to remote
   code execution would be high risk and tested/exploited as soon as
   possible, whereas a minor misconfiguration deep inside the network
-  might be scheduled for later analysis. This risk-based approach
-  ensures the continuous testing efforts are always directed at reducing
-  the highest risks first, which is critical given the ongoing nature –
-  you can’t exploit everything at once continuously; there’s still an
-  order of operations, just over a longer term. Many organizations tie
-  this process into their risk management framework, so CPTM findings
-  feed into the overall enterprise risk register continuously.
+  might be scheduled for later analysis. Utilizing sources such as the KEV
+  (Known Exploited Vulnerabilities) Catalog and EPSS (Exploit Prediction
+  Scoring System) can assist in understanding what vulnerabilities are
+  actively being exploited and the probability of exploitation. This
+  risk-based approach ensures the continuous testing efforts are always
+  directed at reducing the highest risks first, which is critical given
+  the ongoing nature – you can’t exploit everything at once continuously;
+  there’s still an order of operations, just over a longer term. Many
+  organizations tie this process into their risk management framework, so
+  CPTM findings feed into the overall enterprise risk register continuously.
 
 - **Test Plan Formulation:** Based on the threat model, the team
   formulates a testing plan (which is continually refreshed). This
