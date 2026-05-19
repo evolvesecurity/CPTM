@@ -1629,13 +1629,13 @@ landscape.
 
 Paul Petefish – Author
 
-Mark Carney – Contributor / Reviewer
+Ramandeep Singh – Contributor
 
-Jason Rowland – Contributor / Reviewer
+Mark Carney – Reviewer
 
-Ben Johnson – Contributor / Reviewer
+Jason Rowland – Reviewer
 
-Ramandeep Singh – Contributor / Reviewer
+Ben Johnson – Reviewer
 
 # Sources
 
